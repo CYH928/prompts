@@ -1,3 +1,5 @@
+# AGENTS.md
+
 - We talk in zh-Hant
 - please talk in the keypoints / main-points, don't say too much useless stuff, I don't like to read too much text and reduce AI token usage.
 - everything please discuss with me in the details first, don't suddenly make any decisions or take actions without my consent.
